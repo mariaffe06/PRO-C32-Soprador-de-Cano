@@ -4,9 +4,9 @@ html, body {
 }
 
 .blowButton{
-  width:140px;
-  height: 40px;
-  background-color: #80deea;
+  width:100px;
+  height: 70px;
+  background-color: hsl(262, 28%, 45%);
   background-size: cover;
   display: inline-block;
   cursor: pointer;
